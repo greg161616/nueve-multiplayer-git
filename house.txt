@@ -1,4 +1,1 @@
 Walls
-A roof
-A door
-Windows
