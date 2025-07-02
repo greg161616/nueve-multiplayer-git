@@ -1,3 +1,5 @@
-Walls
-A roof
-A door
+   
+   
+   __   
+  |  |  
+  |__|
