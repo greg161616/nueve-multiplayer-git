@@ -1,4 +1,2 @@
-Walls
-A roof
-A door
-Windows
+  __ __  
+|__||__|
